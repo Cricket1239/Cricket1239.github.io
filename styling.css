@@ -8,8 +8,8 @@ body {
             color: rgb(189, 117, 36); width: 10%;
           }
 #Game { 
-           float: right;
-         }
-#Game { 
-          margin-left: 10px;
-         }
+           float: left;
+       }
+#Book { 
+        float: left; clear: left;
+      }
