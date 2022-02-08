@@ -1,11 +1,11 @@
 h1 {
-      color: rgb(15, 250, 62);
+      color: rgb(189, 117, 36);
    }
 body {
         background-image: url("mybackground.jpg");
      }
 #Para1 {
-            color: rgb(189, 117, 36); width: 40%;
+            color: rgb(15, 250, 62); width: 35%;
           }
 #Game { 
            float: left; margin-left: 10px;
