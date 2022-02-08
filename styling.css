@@ -4,3 +4,9 @@ h1 {
 body {
         background-image: url("mybackground.jpg");
      }
+#id Para1 {
+            color: rgb(250, 131, 87);
+          }
+#id Game { 
+           float: right; width: 40%;
+         }
