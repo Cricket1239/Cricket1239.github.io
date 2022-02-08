@@ -17,5 +17,5 @@ body {
        margin-right: 20px;
      }
 #Me {
-      width: 35%;
+      float: left; clear: left; width: 35%;
     }
