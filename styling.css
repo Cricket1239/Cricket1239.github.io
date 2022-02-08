@@ -1,14 +1,14 @@
 h1 {
-      color: rgb(235, 73, 129);
+      color: rgb(15, 250, 62);
    }
 body {
         background-image: url("mybackground.jpg");
      }
 #Para1 {
-            color: rgb(189, 117, 36); width: 30%;
+            color: rgb(189, 117, 36); width: 40%;
           }
 #Game { 
-           float: left;
+           float: left; margin-left: 10px;
        }
 #Book { 
         float: left; clear: left;
