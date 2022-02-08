@@ -5,7 +5,7 @@ body {
         background-image: url("mybackground.jpg");
      }
 #Para1 {
-            color: rgb(189, 117, 36); width: 35%;
+            color: rgb(189, 117, 36); width: 35%; margin-left: 50px;
           }
 #Game { 
            float: left; margin-left: 10px;
@@ -17,7 +17,7 @@ body {
        margin-right: 20px;
      }
 #Me {
-      float: left; clear: left; 
+      float: left; clear: left; margin-bottom: 30px;
     }
 #table {
         float: left; clear: left; width: 35%;
