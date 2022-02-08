@@ -10,3 +10,6 @@ body {
 #id Game { 
            float: right; width: 40%;
          }
+#id Game { 
+          margin-left: 20px;
+         }
